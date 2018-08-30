@@ -7,6 +7,7 @@ ruby '2.5.1'
 # special gems for this project
 gem 'letter_opener'
 gem 'launchy'
+gem 'sidekiq'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
